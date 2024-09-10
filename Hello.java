@@ -5,6 +5,6 @@ class Hello{
   int b=20;
   
   
-
+  void m2{}
 
 }
